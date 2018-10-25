@@ -21,7 +21,7 @@ public class TestServlet extends javax.servlet.http.HttpServlet {
             writer.println("</head>");
             writer.println("<body>");
 
-            writer.println("<h1>This is a simple java servlet.</h1>");
+            writer.println("<h1>Hello !!.</h1>");
 
             writer.println("</body>");
             writer.println("</html>");
